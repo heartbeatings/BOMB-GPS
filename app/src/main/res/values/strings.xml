@@ -2,6 +2,7 @@
     <string name="app_name">BOMB_RECEIVER</string>
     <string name="focus_array">NUMBER</string>
     <string name="focus_et">NumberSetting</string>
+    <string name="focus_code">CodeSetting</string>
     <string name="add_btn_str">ADD_NUMBER</string>
     <string name="jump_to_next">START</string>
     <string name="bind">绑定广播</string>

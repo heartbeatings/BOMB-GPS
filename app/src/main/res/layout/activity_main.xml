@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.wjj.demo.MainActivity">
+    tools:context="com.wjj.demo.MainActivity"
+    android:weightSum="1">
 
     <TextView
         android:id="@+id/text"
@@ -13,6 +14,7 @@
         android:layout_marginLeft="@dimen/left_margin"
         android:layout_marginTop="@dimen/top_margin"
         android:text="" />
+
 
 
 </LinearLayout>
